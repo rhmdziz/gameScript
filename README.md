@@ -1,0 +1,2 @@
+# gameScript
+Game sederhana
